@@ -172,10 +172,12 @@ en:
       currency_code: XAF
     gb:
       currency_code: GBP
+      currency_symb: 'pound'
     gd:
       currency_code: XCD
     ge:
       currency_code: GEL
+      currency_symb: 'lari'
     gf:
       currency_code: EUR
       currency_symb: 'euro'
@@ -218,10 +220,12 @@ en:
       currency_code: HNL
     hr:
       currency_code: HRK
+      currency_symb: 'kuna'
     ht:
       currency_code: HTG
     hu:
       currency_code: HUF
+      currency_symb: 'forint'
     id:
       currency_code: IDR
     ie:
@@ -229,6 +233,7 @@ en:
       currency_symb: 'euro'
     il:
       currency_code: ILS
+      currency_symb: 'shekel'
     im:
       currency_code: GBP
     in:
@@ -419,10 +424,12 @@ en:
       currency_symb: 'euro'
     ro:
       currency_code: RON
+      currency_symb: 'leu'
     rs:
       currency_code: RSD
     ru:
       currency_code: RUB
+      currency_symb: 'ruble'
     rw:
       currency_code: RWF
     sa:
